@@ -1,6 +1,6 @@
 import requests
 print("Bem vindo ao Weather Knowing")
-print("Digite a lagitude do lugar para saber a temperatura:")
+print("Digite a latitude do lugar para saber a temperatura:")
 latitude = input()
 print("Agora digite a longitude")
 longitude = input()
